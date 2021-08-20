@@ -6,7 +6,7 @@
   <link href="https://onebook7285.github.io/atom.xml" rel="self"/>
   
   <link href="https://onebook7285.github.io/"/>
-  <updated>2021-08-20T03:47:10.297Z</updated>
+  <updated>2021-08-20T04:01:20.207Z</updated>
   <id>https://onebook7285.github.io/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="https://onebook7285.github.io/2021/08/20/%E6%96%B0%E7%AF%87%E7%AB%A0/"/>
     <id>https://onebook7285.github.io/2021/08/20/%E6%96%B0%E7%AF%87%E7%AB%A0/</id>
     <published>2021-08-20T03:25:39.000Z</published>
-    <updated>2021-08-20T03:47:10.297Z</updated>
+    <updated>2021-08-20T04:01:20.207Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://i.imgur.com/eTlhv7j.jpg"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://i.imgur.com/eTlhv7j.jpg"></p><figure class="highlight cs"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">async</span> Task&lt;test&gt; <span class="title">TestCode</span>(<span class="params"></span>)</span></span><br><span class="line">&#123;</span><br><span class="line">    <span class="built_in">string</span> testStr = <span class="string">&quot;Test Str&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/eTlhv7j.jpg&quot;&gt;&lt;/p&gt;
-</summary>
+&lt;figure class=&quot;highlight cs&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/spa</summary>
       
     
     
