@@ -22,7 +22,7 @@
   <entry>
     <title>新篇章</title>
     <url>/2021/08/11d084e46b26/</url>
-    <content><![CDATA[<p><img src="https://i.imgur.com/eTlhv7j.jpg" alt="AltText"></p>
+    <content><![CDATA[<p><img src="https://bn1301files.storage.live.com/y4mxzCeNpoaRqfZVgnPEh1jpgjgDY3MkDC91UCbDslDKlEOGqq9dlmabFgqbbU0fSKnYyURRnpFyYrPwxDdcz3EM80RX8TYb5NIMeYfVqDVR85mu2ZCgvCYDjkmIwUSxHeFhMRqWNMkVcuBeYUjfHjeC4F9v4H-vO46Ehdac6PClw-_WYR8AvCEEKIF2Kvss496?width=660&height=495&cropmode=none" alt="AltText"></p>
 <p>這是一篇測試文章</p>
 <span id="more"></span>
 <figure class="highlight cs"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">async</span> Task&lt;test&gt; <span class="title">TestCode</span>(<span class="params"></span>)</span></span><br><span class="line">&#123;</span><br><span class="line">    <span class="built_in">string</span> testStr = <span class="string">&quot;Test Str&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
