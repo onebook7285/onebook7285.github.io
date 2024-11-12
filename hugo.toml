@@ -14,9 +14,9 @@ theme = "hugo-theme-m10c"
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "home"
+    identifier = "posts"
     name = "Posts"
-    url = "/post"
+    url = "/post/"
     weight = 2
   [[menu.main]]
     identifier = "tags"
